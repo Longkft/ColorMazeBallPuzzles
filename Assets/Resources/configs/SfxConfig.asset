@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1281401613, guid: 29b54f39ebae7bd58a9d8653201a0a00, type: 3}
+  m_Name: SfxConfig
+  m_EditorClassIdentifier:
+  id: game
+  soundEffects:
+  - id: kick
+    volume: 0.5
+    clips:
+    - audioClip: {fileID: 8300000, guid: 6b5300367c3d11145a46c029b5625329, type: 3}
+      volume: 0.6
+      probability: 1
+  - id: transition
+    volume: 0.025
+    clips:
+    - audioClip: {fileID: 8300000, guid: ec30d2b3c8e695a40a047159678a3e53, type: 3}
+      volume: 1
+      probability: 1
+    - audioClip: {fileID: 8300000, guid: 1ffbf93cce3fc5547b0353c7d359e3f2, type: 3}
+      volume: 1
+      probability: 1
+    - audioClip: {fileID: 8300000, guid: e82a80e9719976d48a5d39c771d7502f, type: 3}
+      volume: 1
+      probability: 1

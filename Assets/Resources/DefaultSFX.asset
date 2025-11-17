@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1281401613, guid: 29b54f39ebae7bd58a9d8653201a0a00, type: 3}
+  m_Name: DefaultSFX
+  m_EditorClassIdentifier:
+  id: default
+  soundEffects:
+  - id: click
+    volume: 0.5
+    clips:
+    - audioClip: {fileID: 8300000, guid: 663593421e0fb7b44a54033dda4d62af, type: 3}
+      volume: 1
+      probability: 1
+  - id: win
+    volume: 0.75
+    clips:
+    - audioClip: {fileID: 8300000, guid: 28be9b66749b06d4a94787f193fe31b9, type: 3}
+      volume: 1
+      probability: 1
+  - id: fail
+    volume: 0
+    clips:
+    - audioClip: {fileID: 8300000, guid: 005ae0991e5083540a41ce26b05c82bc, type: 3}
+      volume: 1
+      probability: 1
+  - id: confetti-burst
+    volume: 0.75
+    clips:
+    - audioClip: {fileID: 8300000, guid: de948fbc914cf7241bf2433646753d42, type: 3}
+      volume: 1
+      probability: 1
+  - id: gem-pickup
+    volume: 0.075
+    clips:
+    - audioClip: {fileID: 8300000, guid: a37de02bb08d1524fb3705680d08a998, type: 3}
+      volume: 1
+      probability: 1

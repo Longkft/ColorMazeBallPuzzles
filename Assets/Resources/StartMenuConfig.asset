@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -592421187, guid: 9489f5cab78a475505ac03665b0204b2, type: 3}
+  m_Name: StartMenuConfig
+  m_EditorClassIdentifier:
+  rateButtonPrefab: {fileID: 1325645142497931, guid: 99aa6610001be4247b79dd80046d4a6a, type: 2}
+  challengesButtonPrefab: {fileID: 1165985741150624, guid: 27f2db892f3843b43a4d5366badbdfe7, type: 2}
+  skinsButtonPrefab: {fileID: 1194496395009978, guid: 26100582eb34c3641b8419f947cdfc9f, type: 2}
+  idleButtonPrefab: {fileID: 1514598532073696, guid: 36ad9ed89c67d164ea29692a01622ea8, type: 2}
+  rouletteButtonPrefab: {fileID: 1359477544731235, guid: 36c19cf61085b3b488667771068f8342, type: 2}
+  rewardButtonPrefab: {fileID: 1957998279417927, guid: a66300b4c8635a44cb50b7728c613fb7, type: 2}
+  missionsButtonPrefab: {fileID: 1459622021710187, guid: 1fc8c85384300bd4c96e1ce9c51cc95c, type: 2}
+  DefaultUiMaterial: {fileID: 2100000, guid: 77a91b16b75de174d860d58741926d89, type: 2}
+  GrayscaleUiMaterial: {fileID: 2100000, guid: 75b1dcf103ad12948b7c955d54e5353e, type: 2}

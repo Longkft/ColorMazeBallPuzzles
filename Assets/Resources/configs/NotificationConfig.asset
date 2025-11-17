@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -764150958, guid: 29b54f39ebae7bd58a9d8653201a0a00, type: 3}
+  m_Name: NotificationConfig
+  m_EditorClassIdentifier:
+  enabled: 1
+  requestAuthorizationOnAppLaunch: 1
+  levelThresholds: 0a00000014000000280000003c00000050000000640000008c000000
+  standardContents:
+  - title: You and me, one two three...
+    text: Let's jump into the maze!
+    feel: 1
+  - title: I'm getting frustrated...
+    text: Come and get me out of here!
+    feel: 8
+  - title: Your soulmate has beaten your score.
+    text: Don’t let him get away with it!
+    feel: 6
+  - title: Hello... Anybody there...
+    text: I'm stuck in this maze...
+    feel: 5
+  - title: New skins available...
+    text: Try your luck and win a prize!
+    feel: 4
+  - title: Victory is yours!
+    text: Are you ready to solve the maze?
+    feel: 3
+  - title: Through nights and through days...
+    text: You should play Color Maze!
+    feel: 1
+  - title: New mazes, waiting to be discovered!
+    text: Continue your journey in the game...
+    feel: 2
+  - title: Hurry up!
+    text: You have an important meeting in Color Maze.
+    feel: 1
+  - title: What should we do but sing his praise...
+    text: For he led us through the Color Maze!
+    feel: 2
+  - title: HEEEEELP MEEEEE!!!!
+    text: I can't pass level 500...
+    feel: 8
+  - title: It's Color Maze
+    text: I've tried to steer through it a billion ways.
+    feel: 1
+  - title: This is such an enormous maze...
+    text: I think I'll have to leave a trail of breadcrumbs every time I play.
+    feel: 2
+  - title: Pssst... Come here...
+    text: I have new levels for you!
+    feel: 2
+  - title: I'm lost in this maze...
+    text: Can you help me find my way out?
+    feel: 5

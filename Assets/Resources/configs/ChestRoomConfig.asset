@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 174181552, guid: 8855f8187559ec3cbc9986ef91e14a71, type: 3}
+  m_Name: ChestRoomConfig
+  m_EditorClassIdentifier:
+  rewards:
+  - type: 0
+    name: ChestRoomSkin1
+    coefficient: 0.75
+    commonValue: 0
+    specialAlternatives:
+    - name: Gem
+      commonValue: 120
+  - type: 0
+    name: ChestRoomSkin2
+    coefficient: 0.75
+    commonValue: 0
+    specialAlternatives:
+    - name: Gem
+      commonValue: 100
+  - type: 1
+    name: Gem
+    coefficient: 1
+    commonValue: 75
+    specialAlternatives: []
+  - type: 1
+    name: Gem
+    coefficient: 1
+    commonValue: 50
+    specialAlternatives: []
+  - type: 1
+    name: Gem
+    coefficient: 1
+    commonValue: 30
+    specialAlternatives: []
+  - type: 1
+    name: Gem
+    coefficient: 1
+    commonValue: 25
+    specialAlternatives: []
+  - type: 1
+    name: Gem
+    coefficient: 1
+    commonValue: 20
+    specialAlternatives: []
+  - type: 1
+    name: Gem
+    coefficient: 1
+    commonValue: 15
+    specialAlternatives: []
+  - type: 1
+    name: Gem
+    coefficient: 1
+    commonValue: 10
+    specialAlternatives: []
+  keyProbabilities:
+  - 0.1
+  - 0.4444
+  - 0.8
+  - 1
+  startProbabilityIndex: 1
+  chestSkinsPageIndex: 4
+  chestSkinsPageCount: 2

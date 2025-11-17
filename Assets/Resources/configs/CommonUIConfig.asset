@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1308589660, guid: 9489f5cab78a475505ac03665b0204b2, type: 3}
+  m_Name: CommonUIConfig
+  m_EditorClassIdentifier:
+  startMenuMinLevel: 3
+  startMenuBottomButtons:
+    array:
+    - type: 1
+      lockLevel: 20
+    - type: 6
+      lockLevel: 5
+    - type: 4
+      lockLevel: 7
+    - type: 2
+      lockLevel: 0
+  hasStartOverlay: 0
+  showRestartButton: 0
+  showSkipLevelButton: 0
+  showLevelRewardsMultiplier: 1
+  showLeaderboards: 0
+  leaderboardsTitle: Ranking - Total Points
+  leaderboardsStartingRank: 174342
+  leaderboardsMaxScore: 700000
+  leaderboardsCustomScoreIcon: {fileID: 0}

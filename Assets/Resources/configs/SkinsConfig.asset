@@ -1,0 +1,250 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -502720939, guid: c881ca1e0080f6d6634432056c464630, type: 3}
+  m_Name: SkinsConfig
+  m_EditorClassIdentifier:
+  skinPacks:
+  - id: ball
+    skins:
+      array:
+      - id: default
+        prefab: {fileID: 1324762893972068, guid: dad751dc05c7ea044a79cb3d4bd2279c, type: 2}
+      - id: basketball
+        prefab: {fileID: 1902951280396204, guid: 8646729534d59a949af4d4b71502aeda, type: 2}
+      - id: earth
+        prefab: {fileID: 1783011174384242, guid: 70d3263f8f156344f883f771a1fbf9f2, type: 2}
+      - id: gem
+        prefab: {fileID: 1995647392345827, guid: 71c1d966ccae50743880a54a8de24db8, type: 2}
+      - id: king
+        prefab: {fileID: 1951487415178487, guid: 2db06efb7abf16743a480123ac79ff84, type: 2}
+      - id: mushroom
+        prefab: {fileID: 1473793614879964, guid: 666da022e70c8f54f933a21bd9ca242b, type: 2}
+      - id: pool
+        prefab: {fileID: 1905845050211180, guid: da8be483631b86a45b58c691a624dad9, type: 2}
+      - id: pumpkin
+        prefab: {fileID: 1792715566204248, guid: ff369c57306416c4a9f97298e46c8466, type: 2}
+      - id: soccer
+        prefab: {fileID: 1010696228607841, guid: 16ba04db68df2794589570548e11d4ea, type: 2}
+      - id: strawberry
+        prefab: {fileID: 1669006896526321, guid: 061a9550648eb6743b44816664b8ee3e, type: 2}
+      - id: tennis
+        prefab: {fileID: 1102993514250558, guid: 7f7305337e0e36843b499eac2f2b348e, type: 2}
+      - id: ufo
+        prefab: {fileID: 1660141649756893, guid: b51a4be29b75ead40b515b95696f6806, type: 2}
+      - id: apple
+        prefab: {fileID: 1624015755942153, guid: 8d0936316c84ac04db52ed94cae27b7f, type: 2}
+      - id: volleyball
+        prefab: {fileID: 1570760124520620, guid: bf6632f1ef5265243bf357bb530c7b0f, type: 2}
+      - id: watermelon
+        prefab: {fileID: 1952741983774444, guid: a224492238af88a4abe24da95b853489, type: 2}
+      - id: bauble
+        prefab: {fileID: 1026395950859362, guid: 69dc6ffe967edad4ca386fca5a991172, type: 2}
+      - id: core
+        prefab: {fileID: 1238076019157740, guid: 5dcb87ee6f960f34fbdd761f3027850c, type: 2}
+      - id: cute
+        prefab: {fileID: 1681692694737401, guid: ff166a7de594bcd46b01cf008295ddb0, type: 2}
+      - id: cutout
+        prefab: {fileID: 1880023850362991, guid: 9f16f20ec1c192842a722133fb69806e, type: 2}
+      - id: fish
+        prefab: {fileID: 1408569381384351, guid: d9e4207381cfba641b5e2332a85cc0a3, type: 2}
+      - id: fractal
+        prefab: {fileID: 1754050198311726, guid: 9c3e7ed3137a1d3439e233537d4fd4af, type: 2}
+      - id: maze
+        prefab: {fileID: 1233328020315545, guid: 99e9034bb079b9a46afc1be89ffb821b, type: 2}
+      - id: mobius
+        prefab: {fileID: 1443578580744668, guid: 34c27165fa95cd14093a18cfcc709cb8, type: 2}
+      - id: monster
+        prefab: {fileID: 1872782712252240, guid: 9ced182038e896240a67a03e57c99e26, type: 2}
+      - id: ornament
+        prefab: {fileID: 1842038164583244, guid: d65be3bd1d2b07f47a40a15deaddf148, type: 2}
+      - id: radius
+        prefab: {fileID: 1408453636174607, guid: d82c9bcb3d5dbe346a90e2161b3b95bf, type: 2}
+      - id: rings
+        prefab: {fileID: 1457615661071504, guid: 76960f2fd423529488c6e98e2f52fecd, type: 2}
+      - id: skull
+        prefab: {fileID: 1697204692805353, guid: f7c23fe1b978edc4b9389d1ade778e58, type: 2}
+      - id: spiky
+        prefab: {fileID: 1515281960172588, guid: 3a518dca41b9659438bd7ab15dd1dce6, type: 2}
+      - id: stripes
+        prefab: {fileID: 1271577111062159, guid: a14553b684c9f0e4ea65be81939c7216, type: 2}
+      - id: veins
+        prefab: {fileID: 1974819797187169, guid: ac1b823dcb0cd4441a48baab2acb10b3, type: 2}
+      - id: voronoi
+        prefab: {fileID: 1797906989184129, guid: bf23fe559721cee45b2cbca2b97596a3, type: 2}
+      - id: yarn
+        prefab: {fileID: 1578912104184181, guid: 1f39b3d39b770644eb8f74b23d0a6c22, type: 2}
+      - id: star
+        prefab: {fileID: 1615787776767226, guid: f618cc0fa90dd0f49a605c28cfac30e7, type: 2}
+      - id: heart
+        prefab: {fileID: 1207688665807835, guid: 6160e496a07ff7043b9b4b2dd4878528, type: 2}
+      - id: rock
+        prefab: {fileID: 1986089964510490, guid: 9d93cdfff8573d542bb65258eddb08df, type: 2}
+      - id: emoji-love
+        prefab: {fileID: 1536607881651323, guid: cfadfa823c56e9446bb6b0259a6f7406, type: 2}
+      - id: emoji-angry
+        prefab: {fileID: 1476894012124630, guid: f2a42502c6e787d4d9ed74b2121d752f, type: 2}
+      - id: emoji-grin
+        prefab: {fileID: 1131323712675658, guid: 256639a79264e5749aac7a426ead9614, type: 2}
+      - id: emoji-embarrassed
+        prefab: {fileID: 1336775189861125, guid: 78788a239f4aff641941242b3793db37, type: 2}
+      - id: emoji-cute-smile
+        prefab: {fileID: 1339015199243653, guid: 13814163226b6ab4aa06a45df824971b, type: 2}
+      - id: emoji-sunglasses
+        prefab: {fileID: 1804282241908769, guid: d9abe5aa0eb25794fa5df1424e1ec8c8, type: 2}
+      - id: emoji-lol
+        prefab: {fileID: 1642870966911406, guid: 916b517ff398936468d60ffe2222ff44, type: 2}
+      - id: emoji-wink
+        prefab: {fileID: 1784846692429407, guid: b083240ce55c0144cad006384b4a9c41, type: 2}
+      - id: emoji-ugh
+        prefab: {fileID: 1046378532464365, guid: 79da8b196dd77494da8dc314abe67ca4, type: 2}
+      - id: tire
+        prefab: {fileID: 1297433763489690, guid: daf61b6f137748f4cb6524f1a1ec1779, type: 2}
+      - id: beach-ball
+        prefab: {fileID: 1523256149276173, guid: 068285071ed9bb74e843db6473906dd6, type: 2}
+      - id: bush
+        prefab: {fileID: 1913353300698759, guid: 5931656b383166341815fb3079ed4468, type: 2}
+      - id: ceramic
+        prefab: {fileID: 1430101467841571, guid: d3fb53edb7cfca04981bb4607326bc12, type: 2}
+      - id: disco
+        prefab: {fileID: 1097333877028897, guid: 475825763d7eab94ba244036f213ca6e, type: 2}
+      - id: eye
+        prefab: {fileID: 1158128857997911, guid: be739f9cb92b6144ab7819dccc16a283, type: 2}
+      - id: gift
+        prefab: {fileID: 1108333376171284, guid: c5f543ffb73a7e547aacb45f7614d547, type: 2}
+      - id: moon
+        prefab: {fileID: 1930246460402062, guid: 24dd1d0f6b8c14e47b7da7c1ed6bd301, type: 2}
+      - id: orange
+        prefab: {fileID: 1867071981060832, guid: 0a02d0b866f9db940beb1dfe2edeed53, type: 2}
+    customSkins:
+    - id: limited-moves
+      prefab: {fileID: 1465921901524400, guid: 1195b4088d55f0041932b743e16585df, type: 2}
+    prices: 2c010000e8030000d007000088130000
+    menuRotation: {x: 0, y: 0, z: 0}
+    menuElementAnimation: 2
+    legacySaveFile: skins.bin
+  - id: maze
+    skins:
+      array:
+      - id: default
+        prefab: {fileID: 1522424570207365, guid: cd82ecd7701653f41b47db19e09d055c, type: 2}
+      - id: stripes
+        prefab: {fileID: 1576401885179456, guid: 6ef3493efc314244e932537cc654d7bd, type: 2}
+      - id: dots
+        prefab: {fileID: 1659743842480975, guid: 9d04fc028cca1e340964b4eae904572b, type: 2}
+      - id: checkered
+        prefab: {fileID: 1978756739581573, guid: fda186bed32af1340904528beda0f1c3, type: 2}
+      - id: eclipse
+        prefab: {fileID: 1272025278724303, guid: 26c4252776c429348b646f1531953fbf, type: 2}
+      - id: wave-1
+        prefab: {fileID: 1099111963848274, guid: d5181984a1691fc4eb7783216e7c04ed, type: 2}
+      - id: cube
+        prefab: {fileID: 1640770102912805, guid: 47f11a3f1da04b84b9d52273d78db65e, type: 2}
+      - id: brick
+        prefab: {fileID: 1300245178778213, guid: 7bff4f82b1fa22e4ca57e6b2ccfd749f, type: 2}
+      - id: wood
+        prefab: {fileID: 1304629085691754, guid: f0841ae7ce0740f43a9e7c60a1981fef, type: 2}
+      - id: sine
+        prefab: {fileID: 1645501834698747, guid: f6ad7ea9e34a8ae43b1f5719c76ff154, type: 2}
+      - id: flower-1
+        prefab: {fileID: 1234667505704639, guid: 75068df1c86578146af00e4000a9b451, type: 2}
+      - id: star-1
+        prefab: {fileID: 1679113856160510, guid: 47dfffd72b3c43748aa2e62729355e89, type: 2}
+      - id: abstract-1
+        prefab: {fileID: 1221866241775851, guid: 20e5d7623f044954c8e78ec16c0ddfef, type: 2}
+      - id: rail
+        prefab: {fileID: 1411919612219039, guid: 698b6894b9c81e64f8d2ce16abbce98b, type: 2}
+      - id: tiger
+        prefab: {fileID: 1559170954103404, guid: 53c3c6576d604fd4c8b82718c4fbc1a3, type: 2}
+      - id: square-1
+        prefab: {fileID: 1599723840655381, guid: a526376e8be61214ab0ae77a94c6acbe, type: 2}
+      - id: geometric
+        prefab: {fileID: 1999865874843919, guid: 7526fb9b575867342980a22fcea0ed77, type: 2}
+      - id: circle
+        prefab: {fileID: 1943496562724656, guid: 5fedb96dcadc7344babaaefc62783e0e, type: 2}
+      - id: quatrefoil
+        prefab: {fileID: 1396814409475927, guid: eefaa1559a9286c41b924fb083d74370, type: 2}
+      - id: hexagon
+        prefab: {fileID: 1484047557037514, guid: 21a8f2c795b99354aa825365ef0737e7, type: 2}
+      - id: star-2
+        prefab: {fileID: 1100028393472823, guid: 2d71aad2ec84c704da878dbecaded805, type: 2}
+      - id: theater
+        prefab: {fileID: 1670713064508099, guid: 43098cb0fb8ce9b4d9676b8eb6adc610, type: 2}
+      - id: zigzag
+        prefab: {fileID: 1681870341936543, guid: 7e9127c2f1857a74f8b1f6d5f22d8a59, type: 2}
+      - id: honeycomb
+        prefab: {fileID: 1356816007046709, guid: 9c1e819ee92773243a5b32bc2d97eae7, type: 2}
+      - id: diamond
+        prefab: {fileID: 1012412655867777, guid: 6265836b4f250e140a2b5eb4bb24496a, type: 2}
+      - id: arrow
+        prefab: {fileID: 1153841189193463, guid: 8bbd913df8ad7c548bc055437c923db4, type: 2}
+      - id: flower-2
+        prefab: {fileID: 1165306565027512, guid: 2b46c5bf2b999524c902e7ec8cb1a10b, type: 2}
+      - id: square-2
+        prefab: {fileID: 1156219057261779, guid: f8fd25debb8e4a3478ff71226142976b, type: 2}
+      - id: structure-1
+        prefab: {fileID: 1768751986568293, guid: 6c717ce4442e5b94eb43490f8e005d14, type: 2}
+      - id: triangle
+        prefab: {fileID: 1228990018548585, guid: eeaf34d897d959640a4ffb5ee793e0bd, type: 2}
+      - id: decorative
+        prefab: {fileID: 1569562921734791, guid: 28ba2f3e0ed11ca409aa33fe98cfa048, type: 2}
+      - id: wave-2
+        prefab: {fileID: 1685369209863161, guid: b36ac1d97a485924e9c49ceb18d3a405, type: 2}
+      - id: heart
+        prefab: {fileID: 1190179218824029, guid: edb5fb11f5667e446817121497648cfd, type: 2}
+      - id: monochrome
+        prefab: {fileID: 1632227719505671, guid: 0b79adc0cdcb8644780d5180178de01a, type: 2}
+      - id: soft
+        prefab: {fileID: 1142061074722272, guid: ff6907fffda851046a3d2c12599e9781, type: 2}
+      - id: eyes
+        prefab: {fileID: 1622815338610605, guid: c3dc3921c28295147a2444bc27615d99, type: 2}
+      - id: fish
+        prefab: {fileID: 1777194801503621, guid: 5e0c9e82e64384249bebba8d7d830333, type: 2}
+      - id: square-3
+        prefab: {fileID: 1166413796376707, guid: 76e19c8671f87c74e844a684c7cd6827, type: 2}
+      - id: fireworks
+        prefab: {fileID: 1458925229285374, guid: e76296a953cc08a4293a999598208055, type: 2}
+      - id: abstract-2
+        prefab: {fileID: 1791946301848908, guid: d1cd7775f1330a746a3889388d41be8a, type: 2}
+      - id: algae
+        prefab: {fileID: 1705365543760197, guid: 23774ded909c3bb41aac195b8e254eeb, type: 2}
+      - id: decorative-2
+        prefab: {fileID: 1476561873596477, guid: db1d4c09b228177488d48d06108f1408, type: 2}
+      - id: pattern-1
+        prefab: {fileID: 1369499607923276, guid: d377a4b7d69837b48aa1cf6396f905a5, type: 2}
+      - id: spinner
+        prefab: {fileID: 1516279104659662, guid: 49eaddc1b432b1648ac06af43ffa465f, type: 2}
+      - id: pattern-2
+        prefab: {fileID: 1667643310849442, guid: cf7fa3ba50485cd45943abfc327d5c3f, type: 2}
+      - id: structure-2
+        prefab: {fileID: 1484186625980747, guid: 90799fc14d8ce7f498a749b60633bb51, type: 2}
+      - id: antique
+        prefab: {fileID: 1594601410065592, guid: b263003126920234a8676097b3fcfd8c, type: 2}
+      - id: polka
+        prefab: {fileID: 1883137247242377, guid: b7550d8859029234f8b560e27d40c344, type: 2}
+      - id: mirror
+        prefab: {fileID: 1720527432211758, guid: 120bb23979d704d4aa83f417092c4dca, type: 2}
+      - id: touched
+        prefab: {fileID: 1405389364790306, guid: bad5adf36c23d6b43891c874e1a2f1a0, type: 2}
+      - id: persian
+        prefab: {fileID: 1492769316430951, guid: 82da068cbc1881f41b4562ff7b18d999, type: 2}
+      - id: sun
+        prefab: {fileID: 1727977126625423, guid: 4cf39522bf127fc44bbb9b42882d8b32, type: 2}
+      - id: anchor
+        prefab: {fileID: 1382069865615352, guid: 152bb902a6ad38347addef44b56c483a, type: 2}
+      - id: fence
+        prefab: {fileID: 1518351274811607, guid: a04b5a666ab4a0745b6d62f42423720a, type: 2}
+    customSkins: []
+    prices: 2c010000e8030000d007000088130000
+    menuRotation: {x: 0, y: 0, z: 0}
+    menuElementAnimation: 0
+    legacySaveFile:
+  skinsMenuAppearAnimation: 1

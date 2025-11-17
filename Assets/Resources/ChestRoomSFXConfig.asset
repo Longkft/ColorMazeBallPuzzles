@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1281401613, guid: 29b54f39ebae7bd58a9d8653201a0a00, type: 3}
+  m_Name: ChestRoomSFXConfig
+  m_EditorClassIdentifier:
+  id: chest-room
+  soundEffects:
+  - id: key
+    volume: 0.5
+    clips:
+    - audioClip: {fileID: 8300000, guid: d65cfd3f9818d0740bc7711f51329823, type: 3}
+      volume: 1
+      probability: 1
+  - id: special
+    volume: 1
+    clips:
+    - audioClip: {fileID: 8300000, guid: 09d669422049c16468731d80808c0bd0, type: 3}
+      volume: 1
+      probability: 1
+  - id: gem
+    volume: 0.5
+    clips:
+    - audioClip: {fileID: 8300000, guid: e96e084109fc3274a8958e67e4dfc2b1, type: 3}
+      volume: 1
+      probability: 1
+  - id: key-pickup
+    volume: 0.2
+    clips:
+    - audioClip: {fileID: 8300000, guid: 5b5bc175ca3057e4c820247c05d5d2fd, type: 3}
+      volume: 1
+      probability: 1
+  - id: key-collect
+    volume: 0.3
+    clips:
+    - audioClip: {fileID: 8300000, guid: 4bb4ee233d2cbe74890695b8b14ee687, type: 3}
+      volume: 1
+      probability: 1
