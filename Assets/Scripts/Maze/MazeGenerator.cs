@@ -4,6 +4,7 @@ public class MazeGenerator : MonoBehaviour
 {
     [Header("Prefabs")]
     [SerializeField] private GameObject floorPrefab;
+    [SerializeField] private GameObject outherWallPrefab;
     [SerializeField] private GameObject wallPrefab;
 
     [Header("Container")]
